@@ -146,7 +146,7 @@ input, select, textarea {
 		text-decoration: none;
 	}
 
-		a:hover {
+		a:hover {color: #ff9172;
 			border-bottom-color: #ff9172;
 		}
 
