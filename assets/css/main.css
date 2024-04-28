@@ -4101,3 +4101,6 @@ input, select, textarea {
   height: 150px; 
 }
 
+img {
+  border-radius: 75px;
+}
